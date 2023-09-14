@@ -1,3 +1,4 @@
+//Média entre três números em node.js
 //Importando o módulo 
 const readline = require('readline-sync')
 
